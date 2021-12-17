@@ -1,0 +1,24 @@
+.input-placeholder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    padding-left:1vh ;
+    font-size: 2.5vh;
+    margin-top: 50vh;
+    width:20vw;
+    height: 3vw;
+}
+button{
+    font-size: 2vh;
+    border: none;
+    width:5vw;
+    height: 3vw;
+    margin-top: 50vh;
+    margin-left: 1vw;
+    background-color: rgb(14, 77, 56);
+    color:white;
+    border-radius: 2px;
+}
